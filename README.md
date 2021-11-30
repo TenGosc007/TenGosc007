@@ -1,6 +1,7 @@
 ![cover](https://media-exp1.licdn.com/dms/image/C5616AQGPqHv00Cx5JA/profile-displaybackgroundimage-shrink_350_1400/0/1553801137312?e=1643846400&v=beta&t=aYgDh2-N9JPiFXAjyvbhHABVPlWMUoRxJQtC2803h3k)
 <h1 align="center">Hi 👋, I'm Aleksander</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
+<a href="https://www.linkedin.com/in/cyprian-zamiara-900bb8203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 - 🔭 I’m currently working on **Roku - smart TV platform**
 
